@@ -33,7 +33,7 @@ My main interests are:
 
 ## 🧠 Featured Work
 
-### Visual Garment Retrieval System
+### Visual Garment Classification System
 **Python · PyTorch · Mask R-CNN · CLIP · FAISS · Flask · SQLAlchemy**
 
 Built a fashion AI system that detects garments, predicts attributes and retrieves visually similar items.
@@ -44,7 +44,7 @@ Built a fashion AI system that detects garments, predicts attributes and retriev
 - Fine-tuned CLIP ViT-B/32 on 76K image-text pairs
 - Indexed 512-dimensional embeddings with FAISS for fast image/text retrieval
 - Built a Flask web app with authentication, upload, prediction visualisation and similar-item search
-
+[Visual Garment Classification](https://github.com/ali3160/Visual-Garment-classification)
 ---
 
 ### Machine Learning for Fusion Materials Design
