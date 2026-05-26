@@ -110,29 +110,7 @@ A full-stack group project for tracking learner progress and generating certific
 
 ---
 
-## 📌 Current Focus
-
-- Improving my Mask R-CNN and computer vision understanding
-- Building stronger ML/data engineering projects
-- Practising C++ algorithms and memory management
-- Applying for graduate/junior software, data and AI/ML roles
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali3160&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali3160&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali3160&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect
 
 - LinkedIn: [linkedin.com/in/ali-naas](https://www.linkedin.com/in/ali-naas)
-- GitHub: [github.com/ali3160](https://github.com/ali3160)
+- Gmail: [Gmail](a.e.naas.2024@gmail.com)
