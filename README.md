@@ -33,7 +33,7 @@ My main interests are:
 
 ## 🧠 Featured Work
 
-### Visual Garment Classification System
+### [Visual Garment Classification System](https://github.com/ali3160/Visual-Garment-classification)
 **Python · PyTorch · Mask R-CNN · CLIP · FAISS · Flask · SQLAlchemy**
 
 Built a fashion AI system that detects garments, predicts attributes and retrieves visually similar items.
@@ -44,18 +44,13 @@ Built a fashion AI system that detects garments, predicts attributes and retriev
 - Fine-tuned CLIP ViT-B/32 on 76K image-text pairs
 - Indexed 512-dimensional embeddings with FAISS for fast image/text retrieval
 - Built a Flask web app with authentication, upload, prediction visualisation and similar-item search
-[Visual Garment Classification](https://github.com/ali3160/Visual-Garment-classification)
+
 ---
 
-### Machine Learning for Fusion Materials Design
-**Python · ML · Optimisation · Materials Data**
+### [JumpList Data Structure](https://github.com/ali3160/jumplist-data-structure)
+**C++ · Data Structure**
 
-Research project focused on predicting creep rupture life in low-activation steels.
-
-- Curating creep rupture datasets from published experimental studies
-- Building ML models using composition, temperature and stress data
-- Applying constrained optimisation to propose candidate alloy compositions
-- Analysing composition-property relationships for creep resistance
+Built a custom JumpList data structure in C++ to achieve efficient O(√n) search performance, implementing advanced pointer operations and manual memory management without relying on STL containers.
 
 ---
 
