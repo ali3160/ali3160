@@ -54,7 +54,7 @@ Built a custom JumpList data structure in C++ to achieve efficient O(√n) searc
 
 ---
 
-### Stock Market Order Matching Simulator
+### [Stock Market Order Matching Simulator] (https://github.com/ali3160/Stock-Market-Order-Matching-Simulator)
 **C++ · STL · Algorithms**
 
 A C++ trading-order simulator that processes buy/sell orders and matches trades using price-time priority.
